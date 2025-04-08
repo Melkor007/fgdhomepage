@@ -53,9 +53,16 @@ education:
     summary: |
       Graduated with a bachelor's degree in Software Engineering.
 
+# Languages
+languages:
+  - name: Chinese
+    percent: 100
+  - name: English
+    percent: 85
+---
 
 ## About Me
 
 I am currently a Master's student at the Institute of Software, Chinese Academy of Sciences.  
-My research focuses on multimodal knowledge graphs and entity alignment.  
-I have participated in several research projects involving knowledge graph reasoning, multimodal representation learning, and LLM-based question answering.
+My research focuses on multimodal knowledge graphs, entity alignment, vision-language models, and knowledge-enhanced pretraining.  
+I have participated in several national research projects involving knowledge graph reasoning, multimodal representation learning, and LLM-based question answering.
