@@ -21,7 +21,7 @@ jobs:
           hugo-version: '0.117.0'  # 推荐稳定版
 
       - name: Build
-        run: hugo --minify
+        run: hugo 
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
